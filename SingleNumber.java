@@ -13,3 +13,4 @@ class Solution {
         }
         return new int[]{group1,group2};
     }
+}
